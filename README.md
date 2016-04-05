@@ -1,2 +1,5 @@
 # react-progressive-image
-React component for progressive, lazy-loaded image.
+
+> React component for progressive, lazy-loaded image.
+
+* * *
