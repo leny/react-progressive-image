@@ -1,0 +1,26 @@
+{
+  "name": "react-progressive-image",
+  "version": "0.0.1",
+  "description": "React Component for fast loading, progressive images",
+  "keywords": [
+    "react",
+    "react-component",
+    "image",
+    "progressive"
+  ],
+  "author": {
+    "name": "leny",
+    "email": "info@flatland.be",
+    "url": "http://leny.me"
+  },
+  "homepage": "https://github.com/leny/react-progressive-image#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leny/react-progressive-image.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leny/react-progressive-image/issues"
+  },
+  "license": "MIT",
+  "main": "lib/progressive-image.js"
+}
